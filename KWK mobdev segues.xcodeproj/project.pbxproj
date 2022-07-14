@@ -14,6 +14,8 @@
 		BD0FC68C288084F500F5FD2A /* KWK_mobdev_segues.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BD0FC68A288084F500F5FD2A /* KWK_mobdev_segues.xcdatamodeld */; };
 		BD0FC68E288084F600F5FD2A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD0FC68D288084F600F5FD2A /* Assets.xcassets */; };
 		BD0FC691288084F600F5FD2A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD0FC68F288084F600F5FD2A /* LaunchScreen.storyboard */; };
+		BD0FC699288085ED00F5FD2A /* secondScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD0FC698288085ED00F5FD2A /* secondScreen.swift */; };
+		BD0FC69B2880876E00F5FD2A /* thirdScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD0FC69A2880876E00F5FD2A /* thirdScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		BD0FC68D288084F600F5FD2A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD0FC690288084F600F5FD2A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD0FC692288084F700F5FD2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD0FC698288085ED00F5FD2A /* secondScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondScreen.swift; sourceTree = "<group>"; };
+		BD0FC69A2880876E00F5FD2A /* thirdScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirdScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				BD0FC681288084F500F5FD2A /* AppDelegate.swift */,
 				BD0FC683288084F500F5FD2A /* SceneDelegate.swift */,
 				BD0FC685288084F500F5FD2A /* ViewController.swift */,
+				BD0FC698288085ED00F5FD2A /* secondScreen.swift */,
+				BD0FC69A2880876E00F5FD2A /* thirdScreen.swift */,
 				BD0FC687288084F500F5FD2A /* Main.storyboard */,
 				BD0FC68D288084F600F5FD2A /* Assets.xcassets */,
 				BD0FC68F288084F600F5FD2A /* LaunchScreen.storyboard */,
@@ -145,6 +151,8 @@
 				BD0FC682288084F500F5FD2A /* AppDelegate.swift in Sources */,
 				BD0FC68C288084F500F5FD2A /* KWK_mobdev_segues.xcdatamodeld in Sources */,
 				BD0FC684288084F500F5FD2A /* SceneDelegate.swift in Sources */,
+				BD0FC699288085ED00F5FD2A /* secondScreen.swift in Sources */,
+				BD0FC69B2880876E00F5FD2A /* thirdScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
